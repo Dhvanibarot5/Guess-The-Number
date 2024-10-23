@@ -90,3 +90,6 @@ p {
   font-size: 16px;
   text-align: center;
 }
+#newGame {
+  margin-top: 0;
+}
